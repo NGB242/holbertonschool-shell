@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -f *.js
+rm -rf /tmp/test_emacs
