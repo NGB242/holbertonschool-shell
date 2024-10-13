@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /run/media/name/exhdd/data/ data
+ln -s /bin/ls __ls__
