@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l hello | cut
+sshpass -p 63613e70fd2c4f8abc5c9e5c598093b6
