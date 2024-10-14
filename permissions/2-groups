@@ -1,2 +1,2 @@
 #!/bin/bash
-./2-groups 
+su student_jail -c
