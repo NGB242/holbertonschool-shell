@@ -1,5 +1,4 @@
 #!/bin/bash
-head /etc/passwd
-head /etc/hosts
+head /etc/passwd  /etc/hosts
 
 
